@@ -1,6 +1,6 @@
 # CSTR_Simulator
 
-A Simulation of the Continuous Stirred-Tank Reactor (CSTR) Equation with full control of all the variables so that each of their effects can be individually observed.
+A Simulation of the Continuous Stirred-Tank Reactor (CSTR) Equation with full control of all the variables so that each of their effects can be individually observed. <a href = "https://en.wikipedia.org/wiki/Continuous_stirred-tank_reactor">More Details.</a>
 
 
 <img width="943" height="682" alt="image" src="https://github.com/user-attachments/assets/5ef1ebe8-7f11-444f-905c-d40ba94b37e3" />
